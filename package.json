@@ -1,9 +1,9 @@
 {
   "name": "wingo-scraper-server",
   "version": "1.0.0",
-  "description": "24/7 WinGo Scraper API for Telegram Signal Bot",
+  "description": "WinGo 24/7 Scraper API",
   "main": "api/index.js",
   "dependencies": {
-    "got-scraping": "^4.0.0"
+    "axios": "^1.6.0"
   }
 }
